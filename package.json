@@ -1,7 +1,8 @@
 {
 	"type": "module",
 	"scripts": {
-		"test": "ava"
+		"test": "ava",
+		"new": "node gennewDay.mjs"
 	},
 	"devDependencies": {
 		"@types/node": "^16.11.11",
